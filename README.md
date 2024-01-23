@@ -4,8 +4,9 @@
 # Background  
 The photos are all made based on a light shattering plastic foil, that was glued on my balcony window.
 Depending on the time of the day, it created lovely light spectacles. Under normal daylight, it looks like this:
-![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/9ded5745-db3e-4092-9c4c-205fbc033b02)
-But under the correct conditions, it may look like this: ![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/a435fd8f-5789-4a47-9836-474ee94274a8)
+![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/9ded5745-db3e-4092-9c4c-205fbc033b02)  
+But under the correct conditions, it may look like this:  
+![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/a435fd8f-5789-4a47-9836-474ee94274a8)
 
 
 # Additional information
