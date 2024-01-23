@@ -6,7 +6,10 @@ The photos are all made based on a light shattering plastic foil, that was glued
 Depending on the time of the day, it created lovely light spectacles. Under normal daylight, it looks like this:
 ![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/9ded5745-db3e-4092-9c4c-205fbc033b02)  
 But under the correct conditions, it may look like this:  
-![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/a435fd8f-5789-4a47-9836-474ee94274a8)
+![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/30879de9-502f-48a1-b9f1-5fdd40a7059c)
+![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/cd1e8d29-f283-4864-a59c-d5c54e00c6d7)
+![grafik](https://github.com/gluckgluckwasserbauch/wallpaper-the-window-of-dreams/assets/99470494/78f57684-0ff8-4f52-bd67-14756374e8c5)
+
 
 
 # Additional information
@@ -20,7 +23,7 @@ But basically, the three main editing things I did were:
     * Increased or decreased the vibrance
     * Decreased contrast
 ## Copyright
-You can use, share and tweak it how you want, but are not allowed to use it commercially. 
+You can use, share and tweak it how you want, but are not allowed to make money with it. 
 Credit my work whenever you can please. :)
 ## More
 Check out my other repos with wallpapers and color schemes!
