@@ -12,3 +12,6 @@ Depending on the time of the day, it created lovely light spectacles. Under norm
 * Post-Processing in Darktable (the editing files are in this repo too, so you can tweak it yourself)
 ## Copyright
 You can use, share and tweak it how you want, but are not allowed to make money out of my work. Credit my work if you can :)
+
+## More
+Check out my other repos with wallpapers and color schemes!
